@@ -1,0 +1,24 @@
+.texto {
+    color: #ff9900;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.imagen {
+    width: 100%;
+    height: auto;
+    max-height: 470px;
+    max-width: 480px;
+}
+
+.naranja {
+    color: #ff9900;
+}
+
+.negro {
+    color: #000000;
+}
+
+.blanco {
+    color: #ffffff;
+}
